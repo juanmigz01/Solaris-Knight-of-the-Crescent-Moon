@@ -9,6 +9,7 @@
 [![Platform](https://img.shields.io/badge/Platform-PC-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
 [![Genre](https://img.shields.io/badge/Genre-Turn--Based_RPG-8B0000?style=for-the-badge&logo=gameandwatch&logoColor=white)](#)
 [![Status](https://img.shields.io/badge/Status-Complete-2ECC71?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
+[![itch.io](https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://katsumi001.itch.io/solaris)
 
 > _One knight. One promise. One crescent moon._
 
@@ -51,7 +52,13 @@ You are **Solaris**, a young knight bound by a childhood promise to **Princess L
 
 ---
 
-## Getting Started
+## Download & Play
+
+**Play on itch.io:** [katsumi001.itch.io/solaris](https://katsumi001.itch.io/solaris)
+
+---
+
+## Run from Source
 
 **Requirements:** Python 3.10+
 
@@ -74,7 +81,7 @@ python main.py
 |     **Z**      | Cycle zoom                                |
 |     **C**      | Character stats                           |
 |    **TAB**     | Switch About tabs (in menus)              |
-|     **M**      | To open the Wolrd Map                     |
+|     **M**      | Open the World Map                     |
 
 ---
 
