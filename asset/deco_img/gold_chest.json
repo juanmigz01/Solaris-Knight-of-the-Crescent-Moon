@@ -1,0 +1,185 @@
+{
+  "frames": {
+    "15_Ready_to_use_Treasure_Chests_Spritesheet 0.png": {
+      "frame": { "x": 0, "y": 0, "w": 48, "h": 40 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 48, "h": 40 },
+      "sourceSize": { "w": 48, "h": 40 },
+      "duration": 100
+    },
+    "15_Ready_to_use_Treasure_Chests_Spritesheet 1.png": {
+      "frame": { "x": 48, "y": 0, "w": 48, "h": 40 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 48, "h": 40 },
+      "sourceSize": { "w": 48, "h": 40 },
+      "duration": 100
+    },
+    "15_Ready_to_use_Treasure_Chests_Spritesheet 2.png": {
+      "frame": { "x": 96, "y": 0, "w": 48, "h": 40 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 48, "h": 40 },
+      "sourceSize": { "w": 48, "h": 40 },
+      "duration": 100
+    },
+    "15_Ready_to_use_Treasure_Chests_Spritesheet 3.png": {
+      "frame": { "x": 144, "y": 0, "w": 48, "h": 40 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 48, "h": 40 },
+      "sourceSize": { "w": 48, "h": 40 },
+      "duration": 100
+    },
+    "15_Ready_to_use_Treasure_Chests_Spritesheet 4.png": {
+      "frame": { "x": 0, "y": 0, "w": 48, "h": 40 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 48, "h": 40 },
+      "sourceSize": { "w": 48, "h": 40 },
+      "duration": 100
+    },
+    "15_Ready_to_use_Treasure_Chests_Spritesheet 5.png": {
+      "frame": { "x": 192, "y": 0, "w": 48, "h": 40 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 48, "h": 40 },
+      "sourceSize": { "w": 48, "h": 40 },
+      "duration": 100
+    },
+    "15_Ready_to_use_Treasure_Chests_Spritesheet 6.png": {
+      "frame": { "x": 0, "y": 40, "w": 48, "h": 40 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 48, "h": 40 },
+      "sourceSize": { "w": 48, "h": 40 },
+      "duration": 100
+    },
+    "15_Ready_to_use_Treasure_Chests_Spritesheet 7.png": {
+      "frame": { "x": 0, "y": 0, "w": 48, "h": 40 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 48, "h": 40 },
+      "sourceSize": { "w": 48, "h": 40 },
+      "duration": 100
+    },
+    "15_Ready_to_use_Treasure_Chests_Spritesheet 8.png": {
+      "frame": { "x": 96, "y": 0, "w": 48, "h": 40 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 48, "h": 40 },
+      "sourceSize": { "w": 48, "h": 40 },
+      "duration": 100
+    },
+    "15_Ready_to_use_Treasure_Chests_Spritesheet 9.png": {
+      "frame": { "x": 144, "y": 0, "w": 48, "h": 40 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 48, "h": 40 },
+      "sourceSize": { "w": 48, "h": 40 },
+      "duration": 100
+    },
+    "15_Ready_to_use_Treasure_Chests_Spritesheet 10.png": {
+      "frame": { "x": 48, "y": 40, "w": 48, "h": 40 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 48, "h": 40 },
+      "sourceSize": { "w": 48, "h": 40 },
+      "duration": 100
+    },
+    "15_Ready_to_use_Treasure_Chests_Spritesheet 11.png": {
+      "frame": { "x": 96, "y": 40, "w": 48, "h": 40 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 48, "h": 40 },
+      "sourceSize": { "w": 48, "h": 40 },
+      "duration": 100
+    },
+    "15_Ready_to_use_Treasure_Chests_Spritesheet 12.png": {
+      "frame": { "x": 144, "y": 40, "w": 48, "h": 40 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 48, "h": 40 },
+      "sourceSize": { "w": 48, "h": 40 },
+      "duration": 100
+    },
+    "15_Ready_to_use_Treasure_Chests_Spritesheet 13.png": {
+      "frame": { "x": 192, "y": 40, "w": 48, "h": 40 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 48, "h": 40 },
+      "sourceSize": { "w": 48, "h": 40 },
+      "duration": 100
+    },
+    "15_Ready_to_use_Treasure_Chests_Spritesheet 14.png": {
+      "frame": { "x": 0, "y": 80, "w": 48, "h": 40 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 48, "h": 40 },
+      "sourceSize": { "w": 48, "h": 40 },
+      "duration": 100
+    },
+    "15_Ready_to_use_Treasure_Chests_Spritesheet 15.png": {
+      "frame": { "x": 48, "y": 80, "w": 48, "h": 40 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 48, "h": 40 },
+      "sourceSize": { "w": 48, "h": 40 },
+      "duration": 100
+    },
+    "15_Ready_to_use_Treasure_Chests_Spritesheet 16.png": {
+      "frame": { "x": 96, "y": 80, "w": 48, "h": 40 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 48, "h": 40 },
+      "sourceSize": { "w": 48, "h": 40 },
+      "duration": 100
+    },
+    "15_Ready_to_use_Treasure_Chests_Spritesheet 17.png": {
+      "frame": { "x": 144, "y": 80, "w": 48, "h": 40 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 48, "h": 40 },
+      "sourceSize": { "w": 48, "h": 40 },
+      "duration": 100
+    },
+    "15_Ready_to_use_Treasure_Chests_Spritesheet 18.png": {
+      "frame": { "x": 192, "y": 80, "w": 48, "h": 40 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 48, "h": 40 },
+      "sourceSize": { "w": 48, "h": 40 },
+      "duration": 100
+    },
+    "15_Ready_to_use_Treasure_Chests_Spritesheet 19.png": {
+      "frame": { "x": 0, "y": 120, "w": 48, "h": 40 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 48, "h": 40 },
+      "sourceSize": { "w": 48, "h": 40 },
+      "duration": 100
+    },
+    "15_Ready_to_use_Treasure_Chests_Spritesheet 20.png": {
+      "frame": { "x": 48, "y": 120, "w": 48, "h": 40 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 48, "h": 40 },
+      "sourceSize": { "w": 48, "h": 40 },
+      "duration": 100
+    }
+  },
+  "meta": {
+    "app": "https://www.aseprite.org/",
+    "version": "1.3.15.5-dev",
+    "image": "gold_chess.png",
+    "format": "RGBA8888",
+    "size": { "w": 240, "h": 160 },
+    "scale": "1",
+    "frameTags": [],
+    "layers": [
+      { "name": "Sprite Sheet", "opacity": 255, "blendMode": "normal" }
+    ],
+    "slices": []
+  }
+}

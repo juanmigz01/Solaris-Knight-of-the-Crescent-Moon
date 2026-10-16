@@ -1,0 +1,12 @@
+{
+    "sfx_enabled": true,
+    "bgm_enabled": true,
+    "radius_visible": true,
+    "outline_enabled": true,
+    "hitbox_visible": false,
+    "zones_visible": false,
+    "particle_intensity": "high",
+    "zoom_level": 1.5,
+    "music_volume": 0.4,
+    "sfx_volume": 0.6
+}
